@@ -1,4 +1,4 @@
-💸 Expense Tracker App
+###💸 Expense Tracker App - Mindly
 
 A full-stack **Expense Tracker** application that helps users manage their income and expenses in real-time, with a sleek dashboard, JWT-based authentication, and downloadable reports in spreadsheet format.
 
@@ -143,7 +143,7 @@ npm run dev
 ## 🧑‍💻 Author
 
 * **Prethika S**
-  [GitHub](https://github.com/prethikas) • [LinkedIn](https://www.linkedin.com/in/prethika-s)
+  [GitHub](https://github.com/prethika-s) • [LinkedIn](https://www.linkedin.com/in/prethika-s)
 
 ---
 
